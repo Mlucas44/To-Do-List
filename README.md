@@ -11,7 +11,7 @@
 1. Clone the Git repository using the following command:
 
 ```
-git clone https://github.com/realstoman/react-tailwindcss-portfolio.git
+git clone https://github.com/Mlucas44/To-Do-List.git
 ```
 
 2. Installing dependencies
